@@ -31,7 +31,7 @@ It is based on the paper:
 
 ### 📦 Install all dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 📂 Project Components
 📁 Data Preprocessing
