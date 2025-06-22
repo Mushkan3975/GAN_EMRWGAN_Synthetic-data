@@ -33,7 +33,8 @@ It is based on the paper:
 ```bash
 pip install -r requirement.txt
 
-📂 Project Components
+**📂 Project Components**
+
 📁 Data Preprocessing
 
 Before starting, download the MIMIC-IV V2.0 dataset from
